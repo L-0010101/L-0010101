@@ -42,8 +42,6 @@ My name is Leonardo and my nickname is "out"!</h2>
   </a>
 </div>
 
-![Snake animation](https://github.com/L-0010101/L-0010101/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <!--
